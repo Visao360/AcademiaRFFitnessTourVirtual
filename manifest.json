@@ -37,8 +37,8 @@
   }
  ],
  "name": "Academia RF Fitness Tour Virtual",
- "theme_color": "#666666",
  "display": "fullscreen",
  "background_color": "#666666",
- "start_url": "index.htm?installed=true"
+ "start_url": "index.htm?installed=true",
+ "theme_color": "#666666"
 }
