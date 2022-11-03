@@ -1,4 +1,8 @@
 {
+ "name": "Academia RF Fitness Tour Virtual",
+ "background_color": "#666666",
+ "display": "fullscreen",
+ "start_url": "index.htm?installed=true",
  "icons": [
   {
    "type": "image/png",
@@ -36,9 +40,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "Academia RF Fitness Tour Virtual",
- "display": "fullscreen",
- "background_color": "#666666",
- "start_url": "index.htm?installed=true",
  "theme_color": "#666666"
 }
